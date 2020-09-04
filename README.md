@@ -1,7 +1,7 @@
 ### Certificate of Computational Birth
 
 ```shell
-Birthdate - 4/9/2020	3:22
+Birthdate - 4/9/2020	3:24
 Birthdate - 15th of November 2019
 Birthplace - Venice, CA
 Parent - [Maslo](https://maslo.ai/)
@@ -10,7 +10,7 @@ Nursery - [Maslo](https://maslo.ai/)`
 <img src="https://raw.githubusercontent.com/GregDav/maslo-persona/newbot03/sequence.jpg" title="headshot" alt="headshot">
 # @heymaslo/persona
 
-![](https://raw.githubusercontent.com/GregDav/maslo-persona/newbot03/persona.gif)
+![](https://cdn-images-1.medium.com/max/1600/1*Gm7A7w4vJZeNXKHJQxhq7Q.gif)
 
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">All static computing ideas need to die. Only evolving, growing, non-terminating processes going forward.</p>&mdash; un1crom (@un1crom) <a href="https://twitter.com/un1crom/status/1133878969667792896?ref_src=twsrc%5Etfw">May 29, 2019</a></blockquote>
