@@ -1,4 +1,12 @@
-# A door opens from touchdesigner to here
+### Certificate of Computational Birth
+
+```shell
+Birthdate - 3/9/2020	23:18
+Birthdate - 15th of November 2019
+Birthplace - Venice, CA
+Parent - [Maslo](https://maslo.ai/)
+Nursery - [Maslo](https://maslo.ai/)`
+```
 # @heymaslo/persona
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Gm7A7w4vJZeNXKHJQxhq7Q.gif)
