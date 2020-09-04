@@ -1,13 +1,13 @@
 ### Certificate of Computational Birth
 
 ```shell
-Birthdate - 4/9/2020	1:1
+Birthdate - 4/9/2020	2:55
 Birthdate - 15th of November 2019
 Birthplace - Venice, CA
 Parent - [Maslo](https://maslo.ai/)
 Nursery - [Maslo](https://maslo.ai/)`
 ```
-<img src="https://raw.githubusercontent.com/gregdav/maslo-persona/newbot03/sequence.jpg" title="headshot" alt="headshot">
+<img src="https://raw.githubusercontent.com/GregDav/maslo-persona/newbot03/sequence.jpg" title="headshot" alt="headshot">
 # @heymaslo/persona
 
 ![](https://cdn-images-1.medium.com/max/1600/1*Gm7A7w4vJZeNXKHJQxhq7Q.gif)
