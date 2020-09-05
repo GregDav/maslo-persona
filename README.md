@@ -1,7 +1,7 @@
 ### Certificate of Computational Birth
 
 ```shell
-Birthdate - 4/9/2020	18:2
+Birthdate - 4/9/2020	18:10
 Birthdate - 15th of November 2019
 Birthplace - Venice, CA
 Parent - [Maslo](https://maslo.ai/)
